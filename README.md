@@ -20,6 +20,15 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samin576&layout=compact&theme=radical)
 
+## 🌐 Connect with me!
+
+<a href="mailto:saminghoddosi44@gmail.com.com">
+  <img align="center" alt="E-mail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+</a>
+&nbsp;
+<a href="(https://www.linkedin.com/in/samin-ghoddosi/)">
+  <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
 ---
 
 <picture align="center">
