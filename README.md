@@ -4,11 +4,11 @@
   </a>
 </div>
 
-📌 **Sobre Mim**  
+## Sobre mim
 
 Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px; align-items: center;">
   <img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
@@ -16,7 +16,7 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
   <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-## 🔥 Linguagens Mais Usadas
+## Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samin576&layout=compact&theme=radical)
 
