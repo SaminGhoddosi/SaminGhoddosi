@@ -6,8 +6,12 @@
 
 ## Sobre mim
 
-Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
+</div>
 
 <h3 align="left">My Stack</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -17,12 +21,10 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
   <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:saminghoddosi44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samin-ghoddosi/)
-
 
 #
 
@@ -36,7 +38,6 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
   </a>
 </div>
 
-
 #
 
 ---
@@ -46,4 +47,3 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin576/samin576/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samin576/samin576/output/github-contribution-grid-snake.svg">
 </picture>
-
