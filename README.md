@@ -8,6 +8,8 @@
 
 Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
 
+
+
 <div style="display: flex; gap: 10px; align-items: center;">
   <img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
@@ -15,7 +17,7 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
   <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-🌐 Connect with me!
+
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:saminghoddosi44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samin-ghoddosi/)
