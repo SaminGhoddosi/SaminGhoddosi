@@ -3,15 +3,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Samin+Ghoddosi+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;%E2%8A%B9+Seja+bem+vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
+</div>
 
 ## Sobre mim
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
-</div>
 
 <h3 align="left">My Stack</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
