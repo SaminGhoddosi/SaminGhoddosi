@@ -9,10 +9,9 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀
 
 ## 🚀 Tecnologias e Ferramentas
 <img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img align="center" alt="Rafa-.NET#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.NET/.NET-plain.svg">
+<img align="center" alt="Rafa-GIT#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+<img align="center" alt="Rafa-GITHUB#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg">
 
 ## 🔥 Linguagens Mais Usadas
 
