@@ -30,7 +30,7 @@
 </p>
 
 <div style="text-align: center;" align="center">
-  <h3>GitHub Stats</h3>
+  <h3>GitHub Status</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=samin576&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight" alt="GitHub stats">
 
