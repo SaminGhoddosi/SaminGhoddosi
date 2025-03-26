@@ -19,8 +19,10 @@ Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi
 
 
 <h3 align="left">Connect with me!</h3>
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:saminghoddosi44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samin-ghoddosi/)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:saminghoddosi44@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/samin-ghoddosi/)
+
 
 ## Linguagens Mais Usadas
 
