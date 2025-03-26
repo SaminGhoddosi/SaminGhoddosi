@@ -20,16 +20,22 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:saminghoddosi44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samin-ghoddosi/)
+<p align="left">
+  <a href="mailto:saminghoddosi44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/samin-ghoddosi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <div style="text-align: center;" align="center">
-  <h3>GitHub Status</h3>
+  <h3>GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samin576&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1E1E1E&title_color=007ACC&text_color=C0C0C0&border_radius=3&border_color=252526&icon_color=007ACC&theme=dark" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=samin576&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight" alt="GitHub stats">
 
   <a href="https://github.com/samin576/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samin576&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=007ACC&hide=html,scss,less&bg_color=1E1E1E&text_color=C0C0C0&border_radius=3&border_color=252526&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin576&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=tokyonight" alt="Most Used Languages">
   </a>
 </div>
 
