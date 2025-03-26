@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 </div>
 
-## Sobre mim
+#
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 70%;">
@@ -40,8 +40,6 @@
 </div>
 
 #
-
----
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin576/samin576/output/github-contribution-grid-snake-dark.svg">
