@@ -9,7 +9,7 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀
 
 ## 🚀 Tecnologias e Ferramentas
 <img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-<img align="center" alt="Rafa-.NET#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.NET/.NET-plain.svg">
+<img align="center" alt="Rafa-.NET#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/.net-plain.svg">
 <img align="center" alt="Rafa-GIT#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 <img align="center" alt="Rafa-GITHUB#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg">
 
