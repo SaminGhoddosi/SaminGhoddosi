@@ -4,12 +4,9 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>📌 Sobre Mim</h3>
-  <p>Estudante de <strong>Ciência da Computação</strong> no <strong>primeiro semestre</strong> da Uniasselvi e participante do programa <strong>Entra-21</strong>.</p>
-  <p>Atualmente, estou aprendendo <strong>C#</strong> e aprimorando meus conhecimentos em desenvolvimento de software.</p>
-  <p>Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.</p>
-</div>
+📌 **Sobre Mim**  
+
+Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px; align-items: center;">
