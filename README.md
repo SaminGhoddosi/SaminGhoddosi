@@ -19,8 +19,8 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samin576&layout=compact&theme=radical)
 
 ## Como me encontrar?
-- 📧 E-mail: [saminghoddosi44@gmail.com]
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samin-ghoddosi/))
+- 📧 E-mail: saminghoddosi44@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samin-ghoddosi/)
 
 ---
 
