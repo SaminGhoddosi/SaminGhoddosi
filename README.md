@@ -24,6 +24,6 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀
 
 ---
 
-![Snake animation](https://github.com/samin576/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samin576/samin576/blob/output/github-contribution-grid-snake.svg)
 
 ✨ Feito com 💙 por Samin =)
