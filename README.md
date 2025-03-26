@@ -8,10 +8,12 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀
 - 🔥 Aprendendo **C#** e explorando novas tecnologias.
 
 ## 🚀 Tecnologias e Ferramentas
-<img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-<img align="center" alt="Rafa-.NET#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/.net-plain.svg">
-<img align="center" alt="Rafa-GIT#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-<img align="center" alt="Rafa-GITHUB#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
 
 ## 🔥 Linguagens Mais Usadas
 
