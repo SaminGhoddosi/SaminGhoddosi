@@ -11,10 +11,8 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 70%;">
-    Estudante de **Ciência da Computação** no **primeiro semestre** da Uniasselvi e participante do programa **Entra-21**. Atualmente, estou aprendendo **C#** e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
+    Estudante de Ciência da Computação no primeiro semestre da Uniasselvi e participante do programa Entra-21. Atualmente, estou aprendendo C# e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
   </div>
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="150" style="max-width: 30%;">
-</div>
 
 <h3 align="left">My Stack</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
