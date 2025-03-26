@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/samin-ghoddosi/)
 
 <div style="text-align: center;" align="center">
-  <h3>GitHub Stats</h3>
+  <h3>GitHub Status</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samin576&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1E1E1E&title_color=007ACC&text_color=C0C0C0&border_radius=3&border_color=252526&icon_color=007ACC&theme=dark" alt="GitHub stats">
 
