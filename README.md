@@ -16,7 +16,7 @@
 
 <h3 align="left">My Stack</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,git,github&perline=4&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,git,github&perline=4&titles=true&size=40)
 
 <h3 align="left">Connect with me!</h3>
 
