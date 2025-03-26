@@ -4,7 +4,12 @@
   </a>
 </div>
 
-##Sou Samin Ghoddosi, estudante do primeiro semestre de Ciência da Computação na Uniasselvi e participante do Entra-21. Atualmente, estou focado no aprendizado de C# e buscando aprimorar minhas habilidades em desenvolvimento de software.
+<div align="center">
+  <h3>📌 Sobre Mim</h3>
+  <p>Estudante de <strong>Ciência da Computação</strong> no <strong>primeiro semestre</strong> da Uniasselvi e participante do programa <strong>Entra-21</strong>.</p>
+  <p>Atualmente, estou aprendendo <strong>C#</strong> e aprimorando meus conhecimentos em desenvolvimento de software.</p>
+  <p>Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.</p>
+</div>
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px; align-items: center;">
