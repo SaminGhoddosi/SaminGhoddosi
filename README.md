@@ -4,10 +4,7 @@
   </a>
 </div>
 
-## Sobre mim
-- 🎓 Estudante de **Ciência da Computação** na Uniasselvi.
-- 💻 Atualmente participando do **Entra-21**, aprimorando minhas habilidades em programação.
-- 🔥 Aprendendo **C#** e explorando novas tecnologias.
+Sou Samin Ghoddosi, estudante do primeiro semestre de Ciência da Computação na Uniasselvi e participante do Entra-21. Atualmente, estou focado no aprendizado de C# e buscando aprimorar minhas habilidades em desenvolvimento de software.
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px; align-items: center;">
