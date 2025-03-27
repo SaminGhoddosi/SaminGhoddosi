@@ -42,7 +42,7 @@
   </a>
 </div>
 
-# 
+
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin576/samin576/output/pacman-contribution-graph-dark.svg">
@@ -51,7 +51,6 @@
 </picture>
 
 
-<img src="https://raw.githubusercontent.com/samin576/samin576/output/snake.svg" alt="Snake animation" />
 
 #
 
