@@ -13,7 +13,6 @@
     Estudante de Ciência da Computação no primeiro semestre da Uniasselvi e participante do programa Entra-21. Atualmente, estou aprendendo C# e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
   </div>
 
-<h3 align="left">My Stack</h3>
 
 <h3 align="left">My Stack</h3>
 
