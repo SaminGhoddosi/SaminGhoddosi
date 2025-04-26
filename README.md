@@ -17,7 +17,7 @@
 <h3 align="left">My Stack</h3>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,git,github,vscode,visualstudio&perline=6&titles=true&size=30">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio&perline=7&titles=true&size=40">
 </p>
 
 
