@@ -1,16 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻🖥️👨🏽‍💻📱&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&text=Samin%20Ghoddosi&fontColor=ffffff&fontAlign=50&fontSize=28)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Samin+Ghoddosi+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;%E2%8A%B9+Seja+bem-vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&random=false&width=400&lines=%E2%8A%B9+Welcome+to+my+GitHub!%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 70%;">
-    Estudante de Ciência da Computação no primeiro semestre da Uniasselvi e participante do programa Entra-21. Atualmente, estou aprendendo C# e aprimorando meus conhecimentos em desenvolvimento de software. Busco constantemente novos desafios e oportunidades para crescer na área de tecnologia, com paixão por aprendizado contínuo e criação de soluções inovadoras.
+I am a Computer Science student in my first semester at Uniasselvi and a participant in the Entra-21 program. Currently, I am learning C# and expanding my skills in software development. I am passionate about continuous learning, and I’m always seeking new challenges and opportunities to grow in the tech field. My goal is to create innovative and impactful solutions that make a difference. With a strong desire to evolve both technically and professionally, I am committed to becoming a valuable contributor to the world of technology.
   </div>
 
 
