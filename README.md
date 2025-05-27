@@ -7,7 +7,12 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 70%;">
-I am a Computer Science student in my first semester at Uniasselvi and a participant in the Entra-21 program. Currently, I am learning C# and expanding my skills in software development. I am passionate about continuous learning, and I’m always seeking new challenges and opportunities to grow in the tech field. My goal is to create innovative and impactful solutions that make a difference. With a strong desire to evolve both technically and professionally, I am committed to becoming a valuable contributor to the world of technology.
+Hi there! =)
+
+I'm a Computer Science student in my first semester at Uniasselvi Blumenau and currently part of the Entra-21 program. I'm passionate about technology and always eager to learn something new.
+Right now, I'm diving into C# and MySQL on the back-end, and exploring HTML, CSS, and JavaScript on the front-end. I'm building personal projects to sharpen my skills and take one step closer to becoming a Full-Stack Developer. Because why choose front or back when you can do both? 😎
+
+Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
   </div>
 
 
