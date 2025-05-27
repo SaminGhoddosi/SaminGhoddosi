@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&text=Samin%20Ghoddosi&fontColor=ffffff&fontAlign=50&fontSize=28)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Samin%20Ghoddosi&fontSize=50&fontColor=ffffff" alt="banner" />
+</p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
