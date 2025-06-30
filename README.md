@@ -40,10 +40,10 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 <div style="text-align: center;" align="center">
   <h3>GitHub Status</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=samin576&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight" alt="GitHub stats">
 
-  <a href="https://github.com/samin576/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin576&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=tokyonight" alt="Most Used Languages">
+  <a href="https://github.com/SaminGhoddosi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=tokyonight" alt="Most Used Languages">
   </a>
 </div>
 
