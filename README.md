@@ -38,36 +38,14 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 </p>
 
 <div style="text-align: center;" align="center">
-<h3>GitHub Status</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&theme=react&rank_icon=github&card_width=350"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&rank_icon=github&card_width=350"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&rank_icon=github&card_width=350" alt="GitHub stats" />
-  </picture>
+  <h3>GitHub Status</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight" alt="GitHub stats">
 
-
-
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&theme=react&card_width=350"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&card_width=350"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&card_width=350" alt="Most Used Languages" />
-  </picture>
+  <a href="https://github.com/SaminGhoddosi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=tokyonight" alt="Most Used Languages">
+  </a>
 </div>
-
 
 
 
@@ -76,11 +54,9 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1sc3I2a2dyYzlkcTFuMmc0c2ZzeGhtcjVteTRidzF4dWoxdDRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="gif 1" />
-  
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif 2" />
-  
-  <img height="50" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i3y5pphaoowd3t0vkjmjnmnt3la9rro43o36wujy&ep=v1_gifs_search&rid=giphy.gif&ct=gif" alt="gif 3" />
-</div>
-
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1sc3I2a2dyYzlkcTFuMmc0c2ZzeGhtcjVteTRidzF4dWoxdDRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i3y5pphaoowd3t0vkjmjnmnt3la9rro43o36wujy&ep=v1_gifs_search&rid=giphy.gif&ct=gif"  />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer" />
+</p>
