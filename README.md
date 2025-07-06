@@ -39,32 +39,30 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 
 <div style="text-align: center;" align="center">
   <h3>GitHub Status</h3>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <picture>
+<div>
+    <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&theme=tokyonight&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&theme=react&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&show_icons=true&rank_icon=github" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
-
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&theme=react"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
 </div>
-
 
 
 
