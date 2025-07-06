@@ -76,9 +76,11 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 
 ---
 
-<img align="left" height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1sc3I2a2dyYzlkcTFuMmc0c2ZzeGhtcjVteTRidzF4dWoxdDRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-<img align="center" height="50" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-<img align="right" height="50" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i3y5pphaoowd3t0vkjmjnmnt3la9rro43o36wujy&ep=v1_gifs_search&rid=giphy.gif&ct=gif"  />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1sc3I2a2dyYzlkcTFuMmc0c2ZzeGhtcjVteTRidzF4dWoxdDRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="gif 1" />
+  
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif 2" />
+  
+  <img height="50" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47i3y5pphaoowd3t0vkjmjnmnt3la9rro43o36wujy&ep=v1_gifs_search&rid=giphy.gif&ct=gif" alt="gif 3" />
+</div>
+
