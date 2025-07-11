@@ -12,7 +12,7 @@
   <div style="max-width: 70%;">
 Hi there! =)
 
-I'm a Computer Science student in my first semester at Uniasselvi Blumenau and currently part of the Entra-21 program. I'm passionate about technology and always eager to learn something new.
+I'm a Computer Science student in my second semester at Uniasselvi Blumenau and currently part of the Entra-21 program. I'm passionate about technology and always eager to learn something new.
 Right now, I'm diving into C# and MySQL on the back-end, and exploring HTML, CSS, and JavaScript on the front-end. I'm building personal projects to sharpen my skills and take one step closer to becoming a Full-Stack Developer. Because why choose front or back when you can do both? 😎
 
 Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
@@ -22,7 +22,7 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 <h3 align="left">My Stack</h3>
 
 <p align="left">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,git,github,vscode,visualstudio&perline=7&titles=true&size=40">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,html,css,js,git&perline=7&titles=true&size=40">
 </p>
 
 
