@@ -14,7 +14,7 @@ Hi there! =)
 
 I'm a Computer Science student in my second semester at Uniasselvi Blumenau and currently part of the Entra-21 program and the T-Systems AMS bootcamp.
 Right now, I'm diving into C# and MySQL for back-end development, while exploring HTML, CSS, and JavaScript on the front-end. I'm also expanding my knowledge in Help Desk, ITIL v4, and AWS.
-To sharpen my skills, I’m building personal projects and taking one step closer to becoming a Full-Stack Developer — because why choose front-end or back-end when you can do both? >.<
+To sharpen my skills, I’m building personal projects and taking one step closer to becoming a Full-Stack Developer — because why choose front-end or back-end when you can do both?
 
 Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
   </div>
