@@ -23,7 +23,7 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 <h3 align="left">My Stack</h3>
 
 <p align="left">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,mysql,html,css,js,git&perline=7&titles=true&size=40">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java,mysql,html,css,js,git&perline=7&titles=true&size=40">
 </p>
 
 
@@ -43,9 +43,8 @@ Feel free to check out my projects here or reach out! I'm always open to connect
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight&rank_icon=github" alt="GitHub stats">
 
-  <a href="https://github.com/SaminGhoddosi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=tokyonight" alt="Most Used Languages">
-  </a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&langs_count=6&include_all_commits=true&theme=tokyonight" />
+
 </div>
 
 
