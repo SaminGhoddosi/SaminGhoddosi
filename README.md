@@ -13,7 +13,7 @@
 Hi there! =)
 
 I'm a Computer Science student in my second semester at Uniasselvi Blumenau and currently part of the Entra-21 program and the T-Systems AMS bootcamp.
-Right now, I'm diving into C# and MySQL for back-end development, while exploring HTML, CSS, and JavaScript on the front-end. I'm also expanding my knowledge in Help Desk, ITIL v4, and AWS.
+Right now, I'm diving into C#, Java and MySQL for back-end development, while exploring HTML, CSS, and JavaScript on the front-end. I'm also expanding my knowledge in Help Desk, ITIL v4, and AWS.
 To sharpen my skills, I’m building personal projects and taking one step closer to becoming a Back-End Developer.
 
 Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
@@ -43,7 +43,7 @@ Feel free to check out my projects here or reach out! I'm always open to connect
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight&rank_icon=github" alt="GitHub stats">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&langs_count=6&include_all_commits=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&langs_count=6&include_all_commits=true&random=123&theme=tokyonight" />
 
 </div>
 
