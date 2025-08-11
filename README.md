@@ -43,7 +43,8 @@ Feel free to check out my projects here or reach out! I'm always open to connect
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SaminGhoddosi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight&rank_icon=github" alt="GitHub stats">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&langs_count=6&include_all_commits=true&random=123&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaminGhoddosi&layout=compact&langs_count=6&include_all_commits=true&cache_seconds=1800&theme=tokyonight" />
+
 
 </div>
 
