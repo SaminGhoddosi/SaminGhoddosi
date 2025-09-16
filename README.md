@@ -5,14 +5,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&random=false&width=400&lines=%E2%8A%B9+Welcome+to+my+GitHub!%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&random=false&width=400&lines=*+Welcome+to+my+GitHub!+*" alt="Typing SVG">
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 70%;">
 Hi there! =)
 
-I'm a Computer Science student in my second semester at Uniasselvi Blumenau and currently part of the Entra-21 program from Blusoft and the T-Systems AMS bootcamp.
+I'm a Computer Science student in my second semester at Uniasselvi Blumenau and currently part of the the T-Systems AMS bootcamp. 
 Right now, I'm diving into C#, Java and MySQL for back-end development, while exploring HTML, CSS, and JavaScript on the front-end. I'm also expanding my knowledge in Help Desk, ITIL v4, and AWS.
 To sharpen my skills, I’m building personal projects and taking one step closer to becoming a Back-End Developer.
 
