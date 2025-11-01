@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Samin%20Ghoddosi&fontSize=50&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=200&section=header&text=Samin%20Ghoddosi&fontSize=50&fontColor=ffffff" alt="banner" />
 </p>
 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&random=false&width=400&lines=*+Welcome+to+my+GitHub!+*" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=400&lines=*+Welcome+to+my+GitHub!+*" alt="Typing SVG">
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
@@ -53,5 +53,5 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=150&section=footer" />
 </p>
