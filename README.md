@@ -12,9 +12,7 @@
   <div style="max-width: 70%;">
 Hi there! =)
 
-I'm a Computer Science student in my second semester at Uniasselvi Blumenau and currently a Systems Support Intern at T-Systems, working with N2/N3 support for a major international bank. I focus on analyzing, fixing, and improving systems and databases (SQL Server, .NET, ASP.NET), while applying ITIL best practices and using tools like ServiceNow, Scrum, and Git.
-
-On the development side, I'm diving deeper into Back-End with C# (ASP.NET Core) and SQL Server, while also exploring Front-End with HTML, CSS, and JavaScript. I’m constantly building personal projects to sharpen my skills and expand my experience
+I'm a Computer Science student in my third semester at Uniasselvi Blumenau and currently a Full-Stack Developer Intern at T-Systems, working for a major international bank. I focus on analyzing, fixing, and improving systems and databases (ASP.NET MVC, pure JavaScript, SQL Server), while applying ITIL best practices and using tools like ServiceNow, Scrum, and Git.
 
 Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
   </div>
@@ -23,7 +21,7 @@ Feel free to check out my projects here or reach out! I'm always open to connect
 <h3 align="left">My Stack</h3>
 
 <p align="left">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,java,spring,mysql,js,git,html,css&perline=6&titles=true&size=35">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,mysql,js,git,html,css&perline=6&titles=true&size=35">
 </p>
 
 
