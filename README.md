@@ -15,7 +15,7 @@
   <br><br>
   I'm a Computer Science student in my third semester at Uniasselvi Blumenau and currently a Full-Stack Developer Intern at T-Systems, working for a major international bank.
   <br><br>
-  I focus on analyzing, fixing, and improving systems and databases (ASP.NET MVC, pure JavaScript, SQL Server), while applying ITIL best practices and using tools like ServiceNow, Scrum, and Git.
+  I focus on analyzing, maintaining, and improving systems and databases using C# and .NET (ASP.NET MVC and ASP.NET Core), JavaScript, and SQL Server, as well as developing reports and dashboards with Power BI and Microsoft Report Builder. I also apply ITIL best practices and work with tools like ServiceNow, Scrum, and Git.
   <br><br>
   Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
 </div>
