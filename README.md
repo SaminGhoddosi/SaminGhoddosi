@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=200&section=header&text=Samin%20Ghoddosi&fontSize=50&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0090&height=200&section=header&text=Samin%20Ghoddosi&fontSize=50&fontColor=ffffff" alt="banner" />
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=400&lines=*+Welcome+to+my+GitHub!+*" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0090&center=true&vCenter=true&random=false&width=400&lines=*+Welcome+to+my+GitHub!+*" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,21 +13,19 @@
 <div align="center" style="max-width: 70%; margin: auto;">
   Hi there! =)
   <br><br>
-  I'm a Computer Science student in my third semester at Uniasselvi Blumenau and currently a Full-Stack Developer Intern at T-Systems, working for a major international bank.
+  I'm a Full-Stack Developer with hands-on experience in enterprise systems, currently working at T-Systems on the development and maintenance of critical applications for an international financial services client, using C#, .NET, and React.
   <br><br>
-  I focus on analyzing, maintaining, and improving systems and databases using C# and .NET (ASP.NET MVC and ASP.NET Core), JavaScript, and SQL Server, as well as developing reports and dashboards with Power BI and Microsoft Report Builder. I also apply ITIL best practices and work with tools like ServiceNow, Scrum, and Git.
+  I'm also a Computer Science student (4th semester) at Uniasselvi, and completed the AMS bootcamp at T-Academy (T-Systems) and the Entra-21 program (Blusoft), C# track.
   <br><br>
   Feel free to check out my projects here or reach out! I'm always open to connect and collaborate! :D
 </div>
 
 <h3 align="left">My Stack</h3>
-
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,mysql,js,git,html,css&perline=6&titles=true&size=35" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,react,ts,js,sqlserver,mysql,git,html,css,powerbi&perline=6&titles=true&size=35" />
 </p>
 
 <h3 align="left">Connect with me!</h3>
-
 <p align="left">
   <a href="mailto:saminghoddosi.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
@@ -38,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0090&height=150&section=footer" />
 </p>
